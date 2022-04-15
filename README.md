@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CabboShiba&color=green) <= Views boosted with https://github.com/CabboShiba/GitHub-Views-Booster 😎
+![](https://komarev.com/ghpvc/?username=CabboShiba&color=green)   <= Views boosted with https://github.com/CabboShiba/GitHub-Views-Booster 😎
 
 ### Hi there 👋
 
