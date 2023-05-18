@@ -4,7 +4,9 @@
 
 I'm a C# coder, and I love Shiba Inu.
 
-This is my second account, where you could fine some interesting stuff :eyes:: https://github.com/CabboLeak
+Sadly, [CabboLeak](https://github.com/CabboLeak) got termed :((
+
+This is my second account, where you could fine some interesting stuff :eyes:: https://github.com/FreeCabboLeak
 
 ### Do you want to contact me?
 
