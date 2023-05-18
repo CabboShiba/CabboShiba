@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a C# coder, and I love Shiba Inu.
+I'm a C# and Java developer, and I love Shiba Inu.
 
 Sadly, [CabboLeak](https://github.com/CabboLeak) got termed :((
 
