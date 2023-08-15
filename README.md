@@ -10,6 +10,6 @@ This is my second account, where you could find some interesting stuff :eyes:: h
 
 ### Do you want to contact me?
 
-Discord: FreeCabbo11#9191 - New Account. Please do not contact me anymore on FreeCabbo10, it got termed.
+Discord: @cabboshiba
 
 Telegram: https://t.me/cabboshiba
