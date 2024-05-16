@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+**READ THIS**: https://github.com/CabboShiba/Final-Goodbye
+
 I'm a C# and Java developer, and I love Shiba Inu.
 
 Sadly, [CabboLeak](https://github.com/CabboLeak) got termed :((
